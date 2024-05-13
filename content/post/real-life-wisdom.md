@@ -14,7 +14,7 @@ categories = [
 
 +++
 
->THE THREE PRINCIPAL ASPECTS OF THE PATH  
+>"THE THREE PRINCIPAL ASPECTS OF THE PATH" 
 >A CONDENSED LAMRIM BY JE TSONGKHAPA  
 >Homage to the venerable Spiritual Guide  
 >I shall explain to the best of my ability  
