@@ -1,0 +1,43 @@
+baseURL = 'https://factorten.github.io/'
+title = 'Training for Enlightenment'
+author = "Carr"
+copyright = "Copyright © 2024, Carr; all rights reserved."
+paginate = 12
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+# ------------------------------
+theme = "paper"
+
+[params]
+  color = 'linen'
+  avatar = 'factor10@protonmail.com'
+  name = 'Dharma Wisdom'
+  bio = 'Notes taken from various courses of the New Kadampa Tradition'
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#  [markup.highlight]
+#    lineNos = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
