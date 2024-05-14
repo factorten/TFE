@@ -13,8 +13,8 @@ theme = "paper"
 [params]
   color = 'linen'
   avatar = 'factor10@protonmail.com'
-  name = 'Dharma Wisdom'
-  bio = 'Notes taken from various courses of the New Kadampa Tradition'
+  name = 'A Collection of Wisdom'
+  bio = 'Notes taken from various live Dharma teachings.'
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
